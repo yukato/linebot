@@ -1,0 +1,14 @@
+{
+    "name": "yukato/line-bot",
+    "type": "php, line, line bot, api",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuki kato",
+            "email": "m.yukato@gmail.com"
+        }
+    ]
+}
